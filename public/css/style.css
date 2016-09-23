@@ -1,0 +1,78 @@
+body {
+  font-family: 'Quattrocento', serif;
+  background-color: #b3b3ff;
+  background-image: url("/ZenBG.jpg");
+  color: #604020;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+#wrapper {
+  position: absolute;
+  left: 200px;
+  width: 800px;
+}
+
+#wrapper h1 {
+  display: none;
+}
+
+#newQuote {
+  background-color: rgba(255, 255, 255, 0.6);
+  font-size: 40px;
+  font-family: 'Alex Brush', cursive;
+  position: relative;s
+  top: -80px;
+  display: inline-block;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+#newQuote:hover {
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+.container, #theQuotesBox {
+  height: 250px;
+  position: relative;
+  margin: 100px auto;
+  padding: 55px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.6);
+  font-size: 40px;
+}
+
+#aboutBox {
+  font-size: 35px;
+}
+
+.header {
+  font-family: 'Alex Brush', cursive;
+  background-color: rgba(255, 255, 255, 0.3);
+  font-size: 50px;
+  padding: 10px;
+  display: block;
+}
+
+.header a {
+  color: #FFF;
+}
+
+.header a:hover {
+  color: #604020;
+}
+
+.navbar {
+  display: inline;
+}
+
+.navbar a {
+  text-decoration: none;
+}
+
+.navbar li {
+  font-size: 35px;
+  list-style: none;
+  display: inline-block;
+  margin: 10px;
+}

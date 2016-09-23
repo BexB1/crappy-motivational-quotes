@@ -1,0 +1,19 @@
+{
+  "name": "w03d03",
+  "version": "1.0.0",
+  "description": "w03d03 WDI-21 HW - Bex",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^2.4.2",
+    "express-ejs-layouts": "^2.1.0",
+    "morgan": "^1.7.0",
+    "router": "^1.1.4",
+    "save": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Becky Bolton",
+  "license": "ISC"
+}
